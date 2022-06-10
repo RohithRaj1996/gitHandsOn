@@ -26,8 +26,10 @@ public class Arithmetic
  System.out.println("Sum of integers is "+sum);
  System.out.println("Sum of a decimal and an integer is "+add);
  System.out.println("Area of triangle is "+area);
+
 System.out.println("Local changes ");
 
+System.out .print ("change made");
 
 
 }
